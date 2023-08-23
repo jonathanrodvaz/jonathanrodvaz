@@ -43,23 +43,23 @@
 
 ## ⚡ GitHub Stats & Languages
 
-  <a text-align='center' href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
-  	<img height="180px" src="https://github-readme-stats.vercel.app/api?username=jonathanrodvaz&show_icons=true&theme=react&show=reviews">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
+  	<div align="center"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=jonathanrodvaz&show_icons=true&theme=react&show=reviews"></div>
   </a>
-  <a text-align='center' href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
-   	<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrodvaz&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
+   	<div align="center"><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrodvaz&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400"></div>
   </a>
 
 ## ☄️ GitHub Streaks
 
-  <a text-align='center' href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats">
-  	<img height="180px" src="https://streak-stats.demolab.com?user=jonathanrodvaz&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats">
+  	<div align="center"><img height="180px" src="https://streak-stats.demolab.com?user=jonathanrodvaz&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats"></div>
   </a>
 
 ## 📈 GitHub Contribution Graph
 
-  <a text-align='center' href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
-	  <img height="190px" src="https://github-readme-activity-graph.vercel.app/graph?username=jonathanrodvaz&theme=tokyo-night&radius=16">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
+	  <div align="center"><img height="190px" src="https://github-readme-activity-graph.vercel.app/graph?username=jonathanrodvaz&theme=tokyo-night&radius=16"></div>
   </a>
 
 ## 📧 Connect with me:

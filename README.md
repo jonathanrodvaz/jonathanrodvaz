@@ -27,7 +27,7 @@
 
 ## 🚀 Tech Skills:
 
-<code><img height="22" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" title="HTML5"></code>
+<code box-shadow: none ><img height="22" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" title="HTML5"></code>
 <code><img height="22" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" title="CSS3"></code>
 <code><img height="22" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript"></code>
 <code><img height="22" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node" title="Node"></code>
@@ -43,23 +43,23 @@
 
 ## ⚡ GitHub Stats & Languages
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
+  <a text-align='center' href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
   	<img height="180px" src="https://github-readme-stats.vercel.app/api?username=jonathanrodvaz&show_icons=true&theme=react&show=reviews">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
+  <a text-align='center' href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
    	<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrodvaz&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
   </a>
 
 ## ☄️ GitHub Streaks
 
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats">
+  <a text-align='center' href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats">
   	<img height="180px" src="https://streak-stats.demolab.com?user=jonathanrodvaz&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats">
   </a>
 
 ## 📈 GitHub Contribution Graph
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
-	  <img height="180px" src="https://github-readme-activity-graph.vercel.app/graph?username=jonathanrodvaz&theme=tokyo-night&radius=16">
+  <a text-align='center' href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
+	  <img height="190px" src="https://github-readme-activity-graph.vercel.app/graph?username=jonathanrodvaz&theme=tokyo-night&radius=16">
   </a>
 
 ## 📧 Connect with me:

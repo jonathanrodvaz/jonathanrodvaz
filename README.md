@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="25px"> I'm <b>Jonathan Rodríguez</b></h1>
 
-<h2 align="center"><b>I'm a full stack developer with a passion for technology and problem solving 🔎</b></h2>
+<h2 align="center"><b>I'm a junior full stack developer with a passion for technology and problem solving 🔎</b></h2>
 
 <h4 align="center"><b>Full Stack Developer | HTML, CSS, JAVASCRIPT, NODEjs, Express, ReactJS, NEXTjs, Git , Styled Componet, Vite</b></h4>
 
